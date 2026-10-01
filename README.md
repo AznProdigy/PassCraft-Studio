@@ -28,8 +28,6 @@ The goal of the project is to provide small businesses with free and easy-to-use
 - `generators/passphrase_generator.py` - Passphrase generator
 - `requirements.txt` - Python packages required for the project
 
-> The local `practice/` folder is used for learning Python and is not uploaded to GitHub.
-
 ## Current Development
 
 The team is currently working toward a functional PassCraft prototype.
