@@ -1,2 +1,6 @@
 venv/
 practice/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
